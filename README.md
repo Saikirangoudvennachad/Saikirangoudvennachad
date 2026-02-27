@@ -1,11 +1,11 @@
 # Hi, I'm Saikiran 👋
 
-I’m a Junior Software Engineer focused on building production-style systems in Python**—REST APIs, data pipelines, and practical apps. I enjoy writing clean, testable code, debugging performance issues, and shipping features end-to-end.
+I’m a Junior Software Engineer focused on building production-style systems in Python—REST APIs, data pipelines, and practical apps. I enjoy writing clean, testable code, debugging performance issues, and shipping features end-to-end.
 
 Currently open to: SDE / Backend Python roles (New Grad / Junior)
 
 ## Core Skills
-Python • FastAPI/Flask • SQL • Docker • AWS fundamentals • Git/GitHub • REST APIs**
+Python • FastAPI/Flask • SQL • Docker • AWS fundamentals • Git/GitHub • REST APIs
 
 ## Featured Projects
 - Fraud Detection API (FastAPI + XGBoost + Docker)
